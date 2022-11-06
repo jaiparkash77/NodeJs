@@ -1,0 +1,12 @@
+Check node install (cmd) - node
+exit from from node terminal - .exit
+
+--------------------------------------
+Create js file for app - index.js
+Initilize node :- npm init
+
+Types of module
+(1) File basesd module :- module.exports -> require('file')
+(2) Build In -> fs, path, os, http
+(3) Third-Party -> express, socket.io, mongoose, gulp, react
+
